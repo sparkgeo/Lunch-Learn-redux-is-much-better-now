@@ -1,0 +1,8 @@
+{
+  "extends": [
+    "@sparkgeo/eslint-config-react"
+  ],
+  "rules": {
+    "max-params": "off"
+  }
+}
